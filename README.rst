@@ -10,13 +10,15 @@ DevOps Challenge for Intel position
 
 :License: MIT
 
-
-Settings
+To run
 --------
 
-Moved to settings_.
+After installing Docker and Docker Compose, run:
 
-.. _settings: http://cookiecutter-django.readthedocs.io/en/latest/settings.html
+  $ docker-compose -f local.yml build
+  
+  $ docker-compose -f local.yml up
+
 
 Basic Commands
 --------------
