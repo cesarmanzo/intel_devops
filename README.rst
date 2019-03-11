@@ -1,7 +1,7 @@
 Intel DevOps Challenge
 ======================
 
-DevOps Challenge for Intel position
+DevOps Challenge for Intel position. You can access (temporarily) this proyect at https://cesarmanzo.com
 
 .. image:: https://img.shields.io/badge/built%20with-Cookiecutter%20Django-ff69b4.svg
      :target: https://github.com/pydanny/cookiecutter-django/
